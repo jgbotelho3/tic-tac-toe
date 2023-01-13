@@ -13,7 +13,7 @@ Para baixar e brincar um pouco, faça o download do arquivo .zip ou clone este r
 ```sh
 gh repo clone jgbotelho3/tic-tac-toe
 ```
-
+Depois instale as dependências com yarn ou npm
 
 !['Imagem da tabuleiro do jogo da velha'](https://github.com/jgbotelho3/tic-tac-toe/blob/main/public/game1.jpeg)
 !['Imagem da tabuleiro do jogo da velha, com partida em andamento'](https://github.com/jgbotelho3/tic-tac-toe/blob/main/public/game2.jpeg)
